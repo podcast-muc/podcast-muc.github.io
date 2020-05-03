@@ -1,0 +1,45 @@
+
+            [18:54] Andi : Hi und herzlich willkommen beim ersten virtuellen Treffen des Podcast-Meetup München!
+[19:00] Welcome to <b>podcast-muc</b>!<br><br>Invite others with following URL: https://bbb.ulm.dev/b/podcast-muc<br><br>For help on using BigBlueButton see these (short) <a href='http://bigbluebutton.org/html5'>tutorial videos</a>.<br>If things still don't work, contact support@ulm.dev<br><br>Use a headset to avoid causing background noise for others.<br><br>This server is running <a href="http://docs.bigbluebutton.org/" target="_blank" target="_blank"><u>BigBlueButton</u></a>. (47264)
+[19:00] Esther : Hallo!
+[19:01] Peter (ondibox) : Hab ich mir doch gedacht, dass mehr Leute kommen, als im Biergarten etc.
+[19:03] Esther : Wenn ich was sagen will, muss ich wohl nochmal raus und dann mit Mikro beitreten
+[19:04] @Martinobly : Ich denke ja.
+[19:06] Esther : Keine Ahnung, geht gerade nicht mit dem iPad. „ Haben Sie die Zugriffsrechte auf Ihr Mikrofon erteilt?„ Dialog kommt, aber ich kann nichts auswählen. Na ja. Nicht so wild.
+[19:08] Esther : Haha
+[19:09] Esther : Nö, fangt an!
+[19:25] Sven : Ich hör noch zu, aber mein Abendessen ist fertig, da will ich euch keinen vorkauen
+[19:29] Peter (ondibox) : hat jemand Erfahrungen mit ishowu (Audiotreiber/Max)
+[19:30] Peter (ondibox) : mac!
+[19:32] Andi : podcasterei.at
+[19:34] Andi : https://sendegate.de/t/die-podcastpat-innen-stellen-sich-vor/8797
+[19:41] Esther : Sehr super.
+[19:41] Andi : https://podcast-muc.github.io/
+[19:46] Esther : Weiter so.
+[19:47] Esther : Na klar. @edyssee
+[19:52] Esther : eine Frage: Am Mac ein Skype-Interview aufzeichnen - womit macht ihr das?  Bzw. kennt sich jemand mit AudioHijack aus? Habe Testversion, aber kriege die Einstellungen nicht hin.
+[19:54] Esther : StudioLink geht aber nicht mit allen Gästen ...
+[19:55] Esther : Ah? Danke!
+[19:59] Sven : https://zencastr.com/
+[20:01] Andi2 : https://www.youtube.com/watch?v=d6rMHkBKMe0 (ist aber schon etwas älter, geht mit dem aktuellen Ultraschall auch automatischer... Noch mehr Details: https://www.youtube.com/watch?v=VuzaaiMR6ps, https://sendegate.de/t/einbinden-von-audio-laien-in-fern-interviews/8660
+[20:05] Andi2 : https://www.deutschlandradio.de/anleitung-report-it-app.2179.de.html?dram:article_id=289866
+[20:12] Andi2 : http://www.dradiointerview.de
+[20:18] Esther : Noch n Frage: Habt ihr ein  „tonstudio“? Ich finde keinen Ort, der nicht hallt.
+[20:19] Esther : Wer von euch nimmt im Kleiderschrank auf?
+[20:24] Esther : Schick. Dixi-Klo? Auch ne Idee
+[20:24] @Martinobly : https://viertausendhertz.de/frq66/
+[20:29] Sven : Die "Remote Interview Box": https://twitter.com/wahl_beobachter/status/1251077448768380928
+Tims Versandkiste für Ferninterviews:
+https://twitter.com/timpritlove/status/1253004352693899266
+Das kompakte Audiointerface:
+https://twitter.com/timpritlove/status/1239174298373443585
+[20:29] Esther : Danke! Das mit den Decken probiere ich mal aus.
+[20:34] Esther : Die wievielte Welle haben wir gerade? Die dritte?
+[20:34] Alexandra : ich gleube die 3.
+[20:39] Andi : je nach dem wie man zählt... https://sendegate.de/t/timeline-der-deutschsprachigen-podcastlandschaft/9289/5
+[20:40] @Martinobly : https://www.thomann.de/de/beyerdynamic_dt797_pv.htm
+[20:41] @Martinobly : https://www.thomann.de/de/beyerdynamic_dt297pv80_mk_ii.htm
+[20:49] Esther : Ihr Lieben, muss jetzt „weg“, es war toll euch kennenzulernen - bis nächstes Mal!
+[20:51] @Martinobly : Ciao Esther, schön, dass du mit dabei warst! Bis zum nächsten Mal.
+[20:52] @Martinobly : https://sendegate.de/t/faq-marker-vom-zoom-in-reaper-als-kapitelmarke-uebernehmen/4453
+[20:52] Alexandra : Tschüss, Esther!

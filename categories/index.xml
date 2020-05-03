@@ -6,7 +6,7 @@
     <description>Recent content in Categories on Podcast Meetup München</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Sun, 22 Mar 2020 21:40:37 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2020 21:40:37 +0100</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Meetups</title>
       <link>/categories/meetups/</link>
-      <pubDate>Sun, 22 Mar 2020 21:40:37 +0100</pubDate>
+      <pubDate>Tue, 24 Mar 2020 21:40:37 +0100</pubDate>
       
       <guid>/categories/meetups/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Termine</title>
       <link>/categories/termine/</link>
-      <pubDate>Sun, 22 Mar 2020 21:40:37 +0100</pubDate>
+      <pubDate>Tue, 24 Mar 2020 21:40:37 +0100</pubDate>
       
       <guid>/categories/termine/</guid>
       <description></description>

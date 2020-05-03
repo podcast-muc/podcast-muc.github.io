@@ -2,66 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Podcast Meetup München</title>
-    <link>/tags/</link>
+    <link>https://podcast-muc.de/tags/</link>
     <description>Recent content in Tags on Podcast Meetup München</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Tue, 17 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2020 22:33:44 +0200</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://podcast-muc.de/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Meetup</title>
+      <link>https://podcast-muc.de/tags/meetup/</link>
+      <pubDate>Thu, 30 Apr 2020 22:33:44 +0200</pubDate>
+      
+      <guid>https://podcast-muc.de/tags/meetup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protokoll</title>
+      <link>https://podcast-muc.de/tags/protokoll/</link>
+      <pubDate>Thu, 30 Apr 2020 22:33:44 +0200</pubDate>
+      
+      <guid>https://podcast-muc.de/tags/protokoll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Aufnahme</title>
-      <link>/tags/aufnahme/</link>
+      <link>https://podcast-muc.de/tags/aufnahme/</link>
       <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/aufnahme/</guid>
+      <guid>https://podcast-muc.de/tags/aufnahme/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fortsetzung</title>
-      <link>/tags/fortsetzung/</link>
+      <link>https://podcast-muc.de/tags/fortsetzung/</link>
       <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/fortsetzung/</guid>
+      <guid>https://podcast-muc.de/tags/fortsetzung/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Übergabe</title>
-      <link>/tags/%C3%BCbergabe/</link>
+      <link>https://podcast-muc.de/tags/%C3%BCbergabe/</link>
       <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/%C3%BCbergabe/</guid>
+      <guid>https://podcast-muc.de/tags/%C3%BCbergabe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ehrenamt</title>
-      <link>/tags/ehrenamt/</link>
+      <link>https://podcast-muc.de/tags/ehrenamt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/ehrenamt/</guid>
+      <guid>https://podcast-muc.de/tags/ehrenamt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Podcastlabel</title>
-      <link>/tags/podcastlabel/</link>
+      <link>https://podcast-muc.de/tags/podcastlabel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/podcastlabel/</guid>
+      <guid>https://podcast-muc.de/tags/podcastlabel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rotes Kreuz</title>
-      <link>/tags/rotes-kreuz/</link>
+      <link>https://podcast-muc.de/tags/rotes-kreuz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/rotes-kreuz/</guid>
+      <guid>https://podcast-muc.de/tags/rotes-kreuz/</guid>
       <description></description>
     </item>
     

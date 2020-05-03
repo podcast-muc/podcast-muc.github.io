@@ -2,21 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Podcast Meetup München</title>
-    <link>/blog/</link>
+    <link>https://podcast-muc.de/blog/</link>
     <description>Recent content in Blog on Podcast Meetup München</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Tue, 17 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2020 22:33:44 +0200</lastBuildDate>
     
-	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://podcast-muc.de/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Virtuelles Podcast Meetup</title>
+      <link>https://podcast-muc.de/blog/meetup-2020-04-30/</link>
+      <pubDate>Thu, 30 Apr 2020 22:33:44 +0200</pubDate>
+      
+      <guid>https://podcast-muc.de/blog/meetup-2020-04-30/</guid>
+      <description>Heute haben wir uns wegen der Coronavirus-Pandemie und den damit verbundenen Ausgangsbeschränkungen virtuell getroffen. Das kam gut an und wir wollen künftiger häufiger auf virtuelle Treffen setzen. Dabei kam das Webkonferenzsystem BigBlueButton zum Einsatz. Neben einer Vorstellungsrunde haben wir zu sechst (davon zwei neue) unter anderem über folgende Themen gesprochen:
+ Informationen zur Übergabe von TJ an Andi und Martin, die sich auch nachhören lassen. Orga: Andi und Martin haben das jetzt erst einmal übernommen, freuen sich über Unterstützung, Feedback und Ideen.</description>
+    </item>
+    
+    <item>
       <title>Übergabe</title>
-      <link>/blog/meetup-transfer/</link>
+      <link>https://podcast-muc.de/blog/meetup-transfer/</link>
       <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/meetup-transfer/</guid>
+      <guid>https://podcast-muc.de/blog/meetup-transfer/</guid>
       <description>Kurz bevor TJ München verlassen hat, haben Andi und Martin ihn sich geschnappt und die Übergabe des Münchner Podcast-Meetups durchgezogen. Dabei haben wir unter anderem über die Entstehungsgeschichte gesprochen, überlegt, wie es weitergeht und wie wir die anderen Teilnehmer:innen besser mit einbeziehen können. Das Gespräch haben wir aufgenommen.
 Außerdem haben wir uns die Domain podcast-muc.de gesichert und überlegen, wie wir künftig möglichst einfach, viele auf den unterschiedlichen Kanälen erreichen. Ziel soll es sein, dass wir uns regelmäßig treffen, über Podcasts und Podcasting austauschen, uns gegenseitig helfen und voneinander lernen.</description>
     </item>

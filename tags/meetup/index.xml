@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meetup on Podcast Meetup München</title>
+    <link>https://podcast-muc.de/tags/meetup/</link>
+    <description>Recent content in Meetup on Podcast Meetup München</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Thu, 30 Apr 2020 22:33:44 +0200</lastBuildDate>
+    
+	<atom:link href="https://podcast-muc.de/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Virtuelles Podcast Meetup</title>
+      <link>https://podcast-muc.de/blog/meetup-2020-04-30/</link>
+      <pubDate>Thu, 30 Apr 2020 22:33:44 +0200</pubDate>
+      
+      <guid>https://podcast-muc.de/blog/meetup-2020-04-30/</guid>
+      <description>Heute haben wir uns wegen der Coronavirus-Pandemie und den damit verbundenen Ausgangsbeschränkungen virtuell getroffen. Das kam gut an und wir wollen künftiger häufiger auf virtuelle Treffen setzen. Dabei kam das Webkonferenzsystem BigBlueButton zum Einsatz. Neben einer Vorstellungsrunde haben wir zu sechst (davon zwei neue) unter anderem über folgende Themen gesprochen:
+ Informationen zur Übergabe von TJ an Andi und Martin, die sich auch nachhören lassen. Orga: Andi und Martin haben das jetzt erst einmal übernommen, freuen sich über Unterstützung, Feedback und Ideen.</description>
+    </item>
+    
+  </channel>
+</rss>

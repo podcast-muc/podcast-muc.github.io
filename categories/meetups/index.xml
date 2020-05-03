@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meetups on Podcast Meetup München</title>
-    <link>/categories/meetups/</link>
+    <link>https://podcast-muc.de/categories/meetups/</link>
     <description>Recent content in Meetups on Podcast Meetup München</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Sun, 03 May 2020 14:00:00 +0200</lastBuildDate>
     
-	<atom:link href="/categories/meetups/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://podcast-muc.de/categories/meetups/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Meetups</title>
-      <link>/meetups/</link>
+      <link>https://podcast-muc.de/meetups/</link>
       <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/meetups/</guid>
+      <guid>https://podcast-muc.de/meetups/</guid>
       <description>Wir treffen uns regelmäßig irgendwo in München. Üblicherweise einmal im Monat. Zeit und Ort machen wir gemeinsam aus. Die nächsten Termine erfährst du hier:
   Twitter: @podcast_muc
   Mailingliste: Jetzt anmelden oder Nachricht schreiben
@@ -28,31 +28,41 @@
     
     <item>
       <title>Terminfindung: Mai 2020</title>
-      <link>/termine/2020-05-terminfindung/</link>
+      <link>https://podcast-muc.de/termine/2020-05-terminfindung/</link>
       <pubDate>Sun, 03 May 2020 14:00:00 +0200</pubDate>
       
-      <guid>/termine/2020-05-terminfindung/</guid>
+      <guid>https://podcast-muc.de/termine/2020-05-terminfindung/</guid>
       <description>Wir wollen uns Ende Mai wieder zu einem virtuellen Podcast Meetup München treffen. Bitte nimm dir kurz Zeit und trage unter https://dudle.inf.tu-dresden.de/Bud6H0dhbQ/ ein, wann du Zeit hast.
 Vielen Dank!
 Dein Team vom Podcast Meetup München</description>
     </item>
     
     <item>
+      <title>Virtuelles Podcast Meetup</title>
+      <link>https://podcast-muc.de/blog/meetup-2020-04-30/</link>
+      <pubDate>Thu, 30 Apr 2020 22:33:44 +0200</pubDate>
+      
+      <guid>https://podcast-muc.de/blog/meetup-2020-04-30/</guid>
+      <description>Heute haben wir uns wegen der Coronavirus-Pandemie und den damit verbundenen Ausgangsbeschränkungen virtuell getroffen. Das kam gut an und wir wollen künftiger häufiger auf virtuelle Treffen setzen. Dabei kam das Webkonferenzsystem BigBlueButton zum Einsatz. Neben einer Vorstellungsrunde haben wir zu sechst (davon zwei neue) unter anderem über folgende Themen gesprochen:
+ Informationen zur Übergabe von TJ an Andi und Martin, die sich auch nachhören lassen. Orga: Andi und Martin haben das jetzt erst einmal übernommen, freuen sich über Unterstützung, Feedback und Ideen.</description>
+    </item>
+    
+    <item>
       <title>Podcast Meetup im April 2020</title>
-      <link>/termine/2020-04-meetup/</link>
+      <link>https://podcast-muc.de/termine/2020-04-meetup/</link>
       <pubDate>Tue, 24 Mar 2020 21:40:37 +0100</pubDate>
       
-      <guid>/termine/2020-04-meetup/</guid>
+      <guid>https://podcast-muc.de/termine/2020-04-meetup/</guid>
       <description>Das nächste Podcast Meetup München findet am 30.04.2020 um 19:00 Uhr statt.
 Wir treffen uns diesmal virtuell: https://bbb.ulm.dev/b/podcast-muc</description>
     </item>
     
     <item>
       <title>Terminfindung: April 2020</title>
-      <link>/termine/2020-04-terminfindung/</link>
+      <link>https://podcast-muc.de/termine/2020-04-terminfindung/</link>
       <pubDate>Sun, 22 Mar 2020 21:40:37 +0100</pubDate>
       
-      <guid>/termine/2020-04-terminfindung/</guid>
+      <guid>https://podcast-muc.de/termine/2020-04-terminfindung/</guid>
       <description>Es wird wieder Zeit für das nächste Podcast Meetup München. Bitte nimm dir kurz Zeit und trage unter https://dudle.inf.tu-dresden.de/y9iRCxr6Fw/ ein, wann du Zeit hast.
 Vielen Dank!
 Dein Team vom Podcast Meetup München</description>
@@ -60,10 +70,10 @@ Dein Team vom Podcast Meetup München</description>
     
     <item>
       <title>Übergabe</title>
-      <link>/blog/meetup-transfer/</link>
+      <link>https://podcast-muc.de/blog/meetup-transfer/</link>
       <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/meetup-transfer/</guid>
+      <guid>https://podcast-muc.de/blog/meetup-transfer/</guid>
       <description>Kurz bevor TJ München verlassen hat, haben Andi und Martin ihn sich geschnappt und die Übergabe des Münchner Podcast-Meetups durchgezogen. Dabei haben wir unter anderem über die Entstehungsgeschichte gesprochen, überlegt, wie es weitergeht und wie wir die anderen Teilnehmer:innen besser mit einbeziehen können. Das Gespräch haben wir aufgenommen.
 Außerdem haben wir uns die Domain podcast-muc.de gesichert und überlegen, wie wir künftig möglichst einfach, viele auf den unterschiedlichen Kanälen erreichen. Ziel soll es sein, dass wir uns regelmäßig treffen, über Podcasts und Podcasting austauschen, uns gegenseitig helfen und voneinander lernen.</description>
     </item>

@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Podcaster:innen on Podcast Meetup München</title>
-    <link>/categories/podcasterinnen/</link>
+    <link>https://podcast-muc.de/categories/podcasterinnen/</link>
     <description>Recent content in Podcaster:innen on Podcast Meetup München</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     
-	<atom:link href="/categories/podcasterinnen/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://podcast-muc.de/categories/podcasterinnen/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Martin Krumsdorf</title>
-      <link>/podcasterinnen/martin-krumsdorf/</link>
+      <link>https://podcast-muc.de/podcasterinnen/martin-krumsdorf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/podcasterinnen/martin-krumsdorf/</guid>
+      <guid>https://podcast-muc.de/podcasterinnen/martin-krumsdorf/</guid>
       <description>&lt;h2 id=&#34;über-mich&#34;&gt;Über mich&lt;/h2&gt;
 &lt;p&gt;Ich höre gerne und viele Podcasts. Seit dem 23.11.2018 mache ich den Podcast »7 Gute Gründe«. Ideen und Lust auf weitere Podcasts hätte ich. Deswegen habe ich auch das Münchner Podcastlabel »insohr« gegründet. Aktuell fehlt leider die Zeit dazu.&lt;/p&gt;</description>
     </item>

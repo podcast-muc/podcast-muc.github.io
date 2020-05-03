@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Podcast Meetup München</title>
-    <link>/categories/</link>
+    <link>https://podcast-muc.de/categories/</link>
     <description>Recent content in Categories on Podcast Meetup München</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Sun, 03 May 2020 14:00:00 +0200</lastBuildDate>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://podcast-muc.de/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Meetups</title>
-      <link>/categories/meetups/</link>
+      <link>https://podcast-muc.de/categories/meetups/</link>
       <pubDate>Sun, 03 May 2020 14:00:00 +0200</pubDate>
       
-      <guid>/categories/meetups/</guid>
+      <guid>https://podcast-muc.de/categories/meetups/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Termine</title>
-      <link>/categories/termine/</link>
+      <link>https://podcast-muc.de/categories/termine/</link>
       <pubDate>Sun, 03 May 2020 14:00:00 +0200</pubDate>
       
-      <guid>/categories/termine/</guid>
+      <guid>https://podcast-muc.de/categories/termine/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Podcaster</title>
-      <link>/categories/podcaster/</link>
+      <link>https://podcast-muc.de/categories/podcaster/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/categories/podcaster/</guid>
+      <guid>https://podcast-muc.de/categories/podcaster/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Podcaster:innen</title>
-      <link>/categories/podcasterinnen/</link>
+      <link>https://podcast-muc.de/categories/podcasterinnen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/categories/podcasterinnen/</guid>
+      <guid>https://podcast-muc.de/categories/podcasterinnen/</guid>
       <description></description>
     </item>
     

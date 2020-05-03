@@ -6,10 +6,21 @@
     <description>Recent content in Termine on Podcast Meetup München</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Tue, 24 Mar 2020 21:40:37 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2020 14:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/categories/termine/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Terminfindung: Mai 2020</title>
+      <link>/termine/2020-05-terminfindung/</link>
+      <pubDate>Sun, 03 May 2020 14:00:00 +0200</pubDate>
+      
+      <guid>/termine/2020-05-terminfindung/</guid>
+      <description>Wir wollen uns Ende Mai wieder zu einem virtuellen Podcast Meetup München treffen. Bitte nimm dir kurz Zeit und trage unter https://dudle.inf.tu-dresden.de/Bud6H0dhbQ/ ein, wann du Zeit hast.
+Vielen Dank!
+Dein Team vom Podcast Meetup München</description>
+    </item>
     
     <item>
       <title>Podcast Meetup im April 2020</title>
@@ -22,7 +33,7 @@ Wir treffen uns diesmal virtuell: https://bbb.ulm.dev/b/podcast-muc</description
     </item>
     
     <item>
-      <title>Terminfindung Podcast Meetup im April 2020</title>
+      <title>Terminfindung: April 2020</title>
       <link>/termine/2020-04-terminfindung/</link>
       <pubDate>Sun, 22 Mar 2020 21:40:37 +0100</pubDate>
       

@@ -6,7 +6,7 @@
     <description>Recent content in Meetups on Podcast Meetup München</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Sun, 03 May 2020 14:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2020 07:07:07 +0200</lastBuildDate>
     
 	<atom:link href="https://podcast-muc.de/categories/meetups/index.xml" rel="self" type="application/rss+xml" />
     
@@ -24,6 +24,17 @@
   Mail: kontakt[at]podcast-muc.de (Organisator:innen)
   oder hier auf der Webseite in der Kategorie Termine.
   </description>
+    </item>
+    
+    <item>
+      <title>Nächstes Podcast Meetup München findet wieder online statt. Am Sonntag, 31.05.2020 ab 19 Uhr unter https://bbb.ulm.dev/b/podcast-muc</title>
+      <link>https://podcast-muc.de/termine/2020-05-meetup/</link>
+      <pubDate>Tue, 26 May 2020 07:07:07 +0200</pubDate>
+      
+      <guid>https://podcast-muc.de/termine/2020-05-meetup/</guid>
+      <description>Das nächste Podcast Meetup München findet am 31.05.2020 um 19:00 Uhr statt.
+Wir treffen uns diesmal virtuell: https://bbb.ulm.dev/b/podcast-muc
+Konferenzraumname: podcast-muc</description>
     </item>
     
     <item>

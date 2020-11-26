@@ -6,11 +6,7 @@
     <description>Recent content in Meetup on Podcast Meetup München</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Thu, 30 Apr 2020 22:33:44 +0200</lastBuildDate>
-    
-	<atom:link href="https://podcast-muc.de/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 30 Apr 2020 22:33:44 +0200</lastBuildDate><atom:link href="https://podcast-muc.de/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Virtuelles Podcast Meetup</title>
       <link>https://podcast-muc.de/blog/meetup-2020-04-30/</link>

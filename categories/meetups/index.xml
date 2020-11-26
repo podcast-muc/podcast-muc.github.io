@@ -6,11 +6,7 @@
     <description>Recent content in Meetups on Podcast Meetup München</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Tue, 26 May 2020 07:07:07 +0200</lastBuildDate>
-    
-	<atom:link href="https://podcast-muc.de/categories/meetups/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 26 Nov 2020 08:08:08 +0200</lastBuildDate><atom:link href="https://podcast-muc.de/categories/meetups/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Meetups</title>
       <link>https://podcast-muc.de/meetups/</link>
@@ -24,6 +20,18 @@
   Mail: kontakt[at]podcast-muc.de (Organisator:innen)
   oder hier auf der Webseite in der Kategorie Termine.
   </description>
+    </item>
+    
+    <item>
+      <title>Podcasts bei der SZ von und mit @VinzentLeitgeb – Podcast Meetup München findet wieder online statt. Am Mittwoch, 09.12.2020 ab 19 Uhr unter https://bbb.ulm.dev/b/podcast-muc</title>
+      <link>https://podcast-muc.de/termine/2020-12-meetup/</link>
+      <pubDate>Thu, 26 Nov 2020 08:08:08 +0200</pubDate>
+      
+      <guid>https://podcast-muc.de/termine/2020-12-meetup/</guid>
+      <description>Das nächste Podcast Meetup München findet am 09.12.2020 um 19:00 Uhr statt.
+Wir treffen uns virtuell: https://bbb.ulm.dev/b/podcast-muc
+Auch Nicht-Münchner:innen sind herzlich willkommen.
+Konferenzraumname: podcast-muc</description>
     </item>
     
     <item>

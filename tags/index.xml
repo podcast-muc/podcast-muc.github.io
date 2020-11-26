@@ -6,11 +6,7 @@
     <description>Recent content in Tags on Podcast Meetup München</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Thu, 30 Apr 2020 22:33:44 +0200</lastBuildDate>
-    
-	<atom:link href="https://podcast-muc.de/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 30 Apr 2020 22:33:44 +0200</lastBuildDate><atom:link href="https://podcast-muc.de/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Meetup</title>
       <link>https://podcast-muc.de/tags/meetup/</link>

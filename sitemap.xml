@@ -1,164 +1,101 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://podcast-muc.de/</loc>
     <lastmod>2020-03-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://podcast-muc.de/willkommen/</loc>
     <lastmod>2020-03-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://podcast-muc.de/podcasterinnen/</loc>
     <lastmod>2020-03-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://podcast-muc.de/blog/</loc>
     <lastmod>2020-04-30T22:33:44+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://podcast-muc.de/coc/</loc>
     <lastmod>2020-03-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://podcast-muc.de/meetups/</loc>
     <lastmod>2020-03-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://podcast-muc.de/kontakt/</loc>
     <lastmod>2020-03-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://podcast-muc.de/podcastpatinnen/</loc>
     <lastmod>2020-03-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://podcast-muc.de/ressourcen/</loc>
     <lastmod>2020-03-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://podcast-muc.de/impressum/</loc>
     <lastmod>2020-03-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://podcast-muc.de/categories/</loc>
-    <lastmod>2020-11-26T08:08:08+02:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-06-27T19:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://podcast-muc.de/termine/2021-07-meetup/</loc>
+    <lastmod>2021-06-27T19:00:00+02:00</lastmod>
+  </url><url>
     <loc>https://podcast-muc.de/categories/meetups/</loc>
-    <lastmod>2020-11-26T08:08:08+02:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-06-27T19:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://podcast-muc.de/categories/termine/</loc>
+    <lastmod>2021-06-27T19:00:00+02:00</lastmod>
+  </url><url>
     <loc>https://podcast-muc.de/termine/2020-12-meetup/</loc>
     <lastmod>2020-11-26T08:08:08+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://podcast-muc.de/categories/termine/</loc>
-    <lastmod>2020-11-26T08:08:08+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://podcast-muc.de/termine/2020-05-meetup/</loc>
     <lastmod>2020-05-26T07:07:07+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://podcast-muc.de/termine/2020-05-terminfindung/</loc>
     <lastmod>2020-05-03T14:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://podcast-muc.de/tags/meetup/</loc>
     <lastmod>2020-04-30T22:33:44+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://podcast-muc.de/tags/protokoll/</loc>
     <lastmod>2020-04-30T22:33:44+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://podcast-muc.de/tags/</loc>
     <lastmod>2020-04-30T22:33:44+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://podcast-muc.de/blog/meetup-2020-04-30/</loc>
     <lastmod>2020-04-30T22:33:44+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://podcast-muc.de/termine/2020-04-meetup/</loc>
     <lastmod>2020-03-24T21:40:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://podcast-muc.de/termine/2020-04-terminfindung/</loc>
     <lastmod>2020-03-22T21:40:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://podcast-muc.de/termine/</loc>
     <lastmod>2020-03-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://podcast-muc.de/tags/aufnahme/</loc>
     <lastmod>2020-03-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://podcast-muc.de/tags/fortsetzung/</loc>
     <lastmod>2020-03-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://podcast-muc.de/tags/%C3%BCbergabe/</loc>
     <lastmod>2020-03-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://podcast-muc.de/blog/meetup-transfer/</loc>
     <lastmod>2020-03-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://podcast-muc.de/tags/ehrenamt/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://podcast-muc.de/podcasterinnen/martin-krumsdorf/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://podcast-muc.de/categories/podcaster/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://podcast-muc.de/categories/podcasterinnen/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://podcast-muc.de/tags/podcastlabel/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://podcast-muc.de/tags/rotes-kreuz/</loc>
   </url>
-  
 </urlset>

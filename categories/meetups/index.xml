@@ -6,7 +6,7 @@
     <description>Recent content in Meetups on Podcast Meetup München</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Tue, 12 Oct 2021 19:00:00 +0200</lastBuildDate><atom:link href="https://podcast-muc.de/categories/meetups/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Nov 2021 19:00:00 +0200</lastBuildDate><atom:link href="https://podcast-muc.de/categories/meetups/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Meetups</title>
       <link>https://podcast-muc.de/meetups/</link>
@@ -20,6 +20,18 @@
   Mail: kontakt[at]podcast-muc.de (Organisator:innen)
   oder hier auf der Webseite in der Kategorie Termine.
   </description>
+    </item>
+    
+    <item>
+      <title>Christian Alt über &#39;Kugel und Niere&#39;</title>
+      <link>https://podcast-muc.de/termine/2021-11-meetup/</link>
+      <pubDate>Mon, 01 Nov 2021 19:00:00 +0200</pubDate>
+      
+      <guid>https://podcast-muc.de/termine/2021-11-meetup/</guid>
+      <description>Das nächste Podcast Meetup München findet am 15. November 2021 um 19:00 Uhr statt.
+Wir treffen uns virtuell auf https://bbb.jitsi.rocks/ – Natürlich sind auch Nicht-Münchner:innen herzlich willkommen.
+Kugel und Niere Wie immer versuchen wir für jeden Termin auch Vortragende aus der Region zu finden. Dieses Mal berichtet uns Christian Alt (@caltf4) von “Kugel und Niere” über die aktuellen Projekte des Podcast-Labels.
+Christian kommt aus Rheinland-Pfalz und hat sich über Umwege nach München durchgeschlagen.</description>
     </item>
     
     <item>

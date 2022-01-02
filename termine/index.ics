@@ -1,0 +1,176 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//https://podcast-muc.de//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER;CN="Podcast Meetup München":mailto:termine@podcast-muc.de
+SUMMARY: Podcast Meetup München 01/2022
+DESCRIPTION: Podcast Meetup München\n
+ Nils Kopp (Podcast Atti-Tune), Journalist und Podcaster mit Haltung und \n
+ Schifffahrtsgesellschaft\n
+ Wann? 15.1.2022, 19:00 - 21:00\n
+ Wo? https://podcast-muc.de/videokonferenz\n\n\n
+ Alle Details gibt es unter https://podcast-muc.de/termine/2022-01-meetup/
+UID:20220101T190000-7f8915e654f6fa1ef27327fcab5421f0@https://podcast-muc.de
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20220101T190000
+DTSTART:20220115T190000
+DTEND:20220115T210000
+LOCATION:https://podcast-muc.de/videokonferenz
+URL:https://podcast-muc.de/termine/2022-01-meetup/
+LAST-MODIFIED:20220102T171532
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="Podcast Meetup München":mailto:termine@podcast-muc.de
+SUMMARY: Podcast Meetup München 12/2021
+DESCRIPTION: Podcast Meetup München\n
+ Lutz Neumann, Autor und Regisseur bei den WAKE WORD STUDIOS\n
+ ---\n
+ Wann? 15.12.2021, 19:00 - 21:00\n
+ Wo? https://podcast-muc.de/videokonferenz\n\n\n
+ Alle Details gibt es unter https://podcast-muc.de/termine/2021-12-meetup/
+UID:20211201T190000-3977f5ae78a9bd79625b82818e9a0477@https://podcast-muc.de
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20211201T190000
+DTSTART:20211215T190000
+DTEND:20211215T210000
+LOCATION:https://podcast-muc.de/videokonferenz
+URL:https://podcast-muc.de/termine/2021-12-meetup/
+LAST-MODIFIED:20220102T171532
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="Podcast Meetup München":mailto:termine@podcast-muc.de
+SUMMARY: Podcast Meetup München 11/2021
+DESCRIPTION: Podcast Meetup München\n
+ Christian Alt über 'Kugel und Niere'\n
+ ---\n
+ Wann? 15.11.2021, 19:00 - 21:00\n
+ Wo? https://podcast-muc.de/videokonferenz\n\n\n
+ Alle Details gibt es unter https://podcast-muc.de/termine/2021-11-meetup/
+UID:20211101T190000-d21601f1385aded8cee5939315dbdbf0@https://podcast-muc.de
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20211101T190000
+DTSTART:20211115T190000
+DTEND:20211115T210000
+LOCATION:https://podcast-muc.de/videokonferenz
+URL:https://podcast-muc.de/termine/2021-11-meetup/
+LAST-MODIFIED:20220102T171532
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="Podcast Meetup München":mailto:termine@podcast-muc.de
+SUMMARY: Podcast Meetup München 10/2021
+DESCRIPTION: Podcast Meetup München\n
+ Wie kommt das Audio in die ARD Audiothek?\n
+ ---\n
+ Wann? 15.10.2021, 19:00 - 21:00\n
+ Wo? https://podcast-muc.de/videokonferenz\n\n\n
+ Alle Details gibt es unter https://podcast-muc.de/termine/2021-10-meetup/
+UID:20211012T190000-bcdaeca4db46cdae75027fb07076da81@https://podcast-muc.de
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20211012T190000
+DTSTART:20211015T190000
+DTEND:20211015T210000
+LOCATION:https://podcast-muc.de/videokonferenz
+URL:https://podcast-muc.de/termine/2021-10-meetup/
+LAST-MODIFIED:20220102T171532
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="Podcast Meetup München":mailto:termine@podcast-muc.de
+SUMMARY: Podcast Meetup München 07/2021
+DESCRIPTION: Podcast Meetup München\n
+ Max-Jacob Ost über sein Projekt: 11 Leben – Die Welt von Uli Hoeneß \n
+ ---\n
+ Wann? 5.7.2021, 19:00 - 21:00\n
+ Wo? https://podcast-muc.de/videokonferenz\n\n\n
+ Alle Details gibt es unter https://podcast-muc.de/termine/2021-07-meetup/
+UID:20210627T190000-efc1a85c3745ac37e27def7f12963cbd@https://podcast-muc.de
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20210627T190000
+DTSTART:20210705T190000
+DTEND:20210705T210000
+LOCATION:https://podcast-muc.de/videokonferenz
+URL:https://podcast-muc.de/termine/2021-07-meetup/
+LAST-MODIFIED:20220102T171532
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="Podcast Meetup München":mailto:termine@podcast-muc.de
+SUMMARY: Podcast Meetup München 12/2020
+DESCRIPTION: Podcast Meetup München\n
+ Podcasts bei der SZ von und mit Vinzent Leitgeb\n
+ ---\n
+ Wann? 9.12.2020, 19:00 - 21:00\n
+ Wo? https://podcast-muc.de/videokonferenz\n\n\n
+ Alle Details gibt es unter https://podcast-muc.de/termine/2020-12-meetup/
+UID:20201126T080808-5daa27b66458b4674a14011d7b1a070c@https://podcast-muc.de
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20201126T080808
+DTSTART:20201209T190000
+DTEND:20201209T210000
+LOCATION:https://podcast-muc.de/videokonferenz
+URL:https://podcast-muc.de/termine/2020-12-meetup/
+LAST-MODIFIED:20220102T171532
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="Podcast Meetup München":mailto:termine@podcast-muc.de
+SUMMARY: Podcast Meetup München 05/2020
+DESCRIPTION: Podcast Meetup München\n
+ Nächstes Podcast Meetup München findet wieder online statt. Am Sonntag, \n
+ 31.05.2020 ab 19 Uhr unter https://bbb.ulm.dev/b/podcast-muc\n
+ Wann? 31.5.2020, 19:00 - 21:00\n
+ Wo? https://podcast-muc.de/videokonferenz\n\n\n
+ Alle Details gibt es unter https://podcast-muc.de/termine/2020-05-meetup/
+UID:20200526T070707-c6c906d102f14da0e1faae2b5e1279fd@https://podcast-muc.de
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20200526T070707
+DTSTART:20200531T190000
+DTEND:20200531T210000
+LOCATION:https://podcast-muc.de/videokonferenz
+URL:https://podcast-muc.de/termine/2020-05-meetup/
+LAST-MODIFIED:20220102T171532
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="Podcast Meetup München":mailto:termine@podcast-muc.de
+SUMMARY: Podcast Meetup München 04/2020
+DESCRIPTION: Podcast Meetup München\n
+ Podcast Meetup im April 2020\n
+ ---\n
+ Wann? 30.4.2020, 19:00 - 21:00\n
+ Wo? https://podcast-muc.de/videokonferenz\n\n\n
+ Alle Details gibt es unter https://podcast-muc.de/termine/2020-04-meetup/
+UID:20200324T214037-63c2278ce3f26964f8ebb1e4065fd6b0@https://podcast-muc.de
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20200324T214037
+DTSTART:20200430T190000
+DTEND:20200430T210000
+LOCATION:https://podcast-muc.de/videokonferenz
+URL:https://podcast-muc.de/termine/2020-04-meetup/
+LAST-MODIFIED:20220102T171532
+END:VEVENT
+END:VCALENDAR

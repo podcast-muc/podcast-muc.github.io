@@ -1,2 +1,2 @@
 RewriteEngine On
-Redirect 302 / https://bbb.verschwoer.haus/b/podcast-muc
+Redirect 302 /videokonferenz https://bbb.verschwoer.haus/b/podcast-muc

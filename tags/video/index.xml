@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Video on Podcast Meetup München</title>
+    <link>https://podcast-muc.de/tags/video/</link>
+    <description>Recent content in Video on Podcast Meetup München</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Sun, 30 Jan 2022 22:33:44 +0200</lastBuildDate><atom:link href="https://podcast-muc.de/tags/video/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aufzeichnung: Nils Kopp (Podcast Atti-Tune)</title>
+      <link>https://podcast-muc.de/blog/meetup-2022-01-15/</link>
+      <pubDate>Sun, 30 Jan 2022 22:33:44 +0200</pubDate>
+      
+      <guid>https://podcast-muc.de/blog/meetup-2022-01-15/</guid>
+      <description>Am 15. Januar 2022 war Nils Kopp zu Gast. Die Aufzeichnung des Meetups ist unter https://media.ccc.de/v/podcast-muc-4130-podcast-atti-tune-musik zu finden und hier auf dieser Seite eingebunden.
+ Alle verfügbaren Aufzeichnungen unserer virtuellen Treffen findet ihr unter media.ccc.de/b/events/podcast/muc.</description>
+    </item>
+    
+  </channel>
+</rss>

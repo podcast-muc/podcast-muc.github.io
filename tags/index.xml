@@ -6,13 +6,40 @@
     <description>Recent content in Tags on Podcast Meetup München</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Thu, 30 Apr 2020 22:33:44 +0200</lastBuildDate><atom:link href="https://podcast-muc.de/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Jan 2022 22:33:44 +0200</lastBuildDate><atom:link href="https://podcast-muc.de/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aufzeichnung</title>
+      <link>https://podcast-muc.de/tags/aufzeichnung/</link>
+      <pubDate>Sun, 30 Jan 2022 22:33:44 +0200</pubDate>
+      
+      <guid>https://podcast-muc.de/tags/aufzeichnung/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Meetup</title>
       <link>https://podcast-muc.de/tags/meetup/</link>
-      <pubDate>Thu, 30 Apr 2020 22:33:44 +0200</pubDate>
+      <pubDate>Sun, 30 Jan 2022 22:33:44 +0200</pubDate>
       
       <guid>https://podcast-muc.de/tags/meetup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nils Kopp</title>
+      <link>https://podcast-muc.de/tags/nils-kopp/</link>
+      <pubDate>Sun, 30 Jan 2022 22:33:44 +0200</pubDate>
+      
+      <guid>https://podcast-muc.de/tags/nils-kopp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video</title>
+      <link>https://podcast-muc.de/tags/video/</link>
+      <pubDate>Sun, 30 Jan 2022 22:33:44 +0200</pubDate>
+      
+      <guid>https://podcast-muc.de/tags/video/</guid>
       <description></description>
     </item>
     

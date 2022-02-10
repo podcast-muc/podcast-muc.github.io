@@ -38,7 +38,7 @@ DTSTART:20220215T190000
 DTEND:20220215T210000
 LOCATION:https://podcast-muc.de/videokonferenz
 URL:https://podcast-muc.de/termine/2022-02-meetup/
-LAST-MODIFIED:20220210T194543
+LAST-MODIFIED:20220210T194558
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="Podcast Meetup München":mailto:termine@podcast-muc.de
@@ -57,7 +57,7 @@ DTSTART:20220115T190000
 DTEND:20220115T210000
 LOCATION:https://podcast-muc.de/videokonferenz
 URL:https://podcast-muc.de/termine/2022-01-meetup/
-LAST-MODIFIED:20220210T194543
+LAST-MODIFIED:20220210T194558
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="Podcast Meetup München":mailto:termine@podcast-muc.de
@@ -76,7 +76,7 @@ DTSTART:20211215T190000
 DTEND:20211215T210000
 LOCATION:https://podcast-muc.de/videokonferenz
 URL:https://podcast-muc.de/termine/2021-12-meetup/
-LAST-MODIFIED:20220210T194543
+LAST-MODIFIED:20220210T194558
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="Podcast Meetup München":mailto:termine@podcast-muc.de
@@ -95,7 +95,7 @@ DTSTART:20211115T190000
 DTEND:20211115T210000
 LOCATION:https://podcast-muc.de/videokonferenz
 URL:https://podcast-muc.de/termine/2021-11-meetup/
-LAST-MODIFIED:20220210T194543
+LAST-MODIFIED:20220210T194558
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="Podcast Meetup München":mailto:termine@podcast-muc.de
@@ -114,7 +114,7 @@ DTSTART:20211015T190000
 DTEND:20211015T210000
 LOCATION:https://podcast-muc.de/videokonferenz
 URL:https://podcast-muc.de/termine/2021-10-meetup/
-LAST-MODIFIED:20220210T194543
+LAST-MODIFIED:20220210T194558
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="Podcast Meetup München":mailto:termine@podcast-muc.de
@@ -133,7 +133,7 @@ DTSTART:20210705T190000
 DTEND:20210705T210000
 LOCATION:https://podcast-muc.de/videokonferenz
 URL:https://podcast-muc.de/termine/2021-07-meetup/
-LAST-MODIFIED:20220210T194543
+LAST-MODIFIED:20220210T194558
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="Podcast Meetup München":mailto:termine@podcast-muc.de
@@ -152,7 +152,7 @@ DTSTART:20201209T190000
 DTEND:20201209T210000
 LOCATION:https://podcast-muc.de/videokonferenz
 URL:https://podcast-muc.de/termine/2020-12-meetup/
-LAST-MODIFIED:20220210T194543
+LAST-MODIFIED:20220210T194558
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="Podcast Meetup München":mailto:termine@podcast-muc.de
@@ -171,7 +171,7 @@ DTSTART:20200531T190000
 DTEND:20200531T210000
 LOCATION:https://podcast-muc.de/videokonferenz
 URL:https://podcast-muc.de/termine/2020-05-meetup/
-LAST-MODIFIED:20220210T194543
+LAST-MODIFIED:20220210T194558
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="Podcast Meetup München":mailto:termine@podcast-muc.de
@@ -190,6 +190,6 @@ DTSTART:20200430T190000
 DTEND:20200430T210000
 LOCATION:https://podcast-muc.de/videokonferenz
 URL:https://podcast-muc.de/termine/2020-04-meetup/
-LAST-MODIFIED:20220210T194543
+LAST-MODIFIED:20220210T194558
 END:VEVENT
 END:VCALENDAR

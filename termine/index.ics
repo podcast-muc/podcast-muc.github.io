@@ -23,6 +23,25 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="Podcast Meetup München":mailto:termine@podcast-muc.de
+SUMMARY: Podcast Meetup München 02/2022
+DESCRIPTION: Podcast Meetup München\n
+ Torsten Frenzel eGovernment Podcast und »Podcastfunkhaus«\n
+ ---\n
+ Wann? 15.2.2022, 19:00 - 21:00\n
+ Wo? https://podcast-muc.de/videokonferenz\n\n\n
+ Alle Details gibt es unter https://podcast-muc.de/termine/2022-02-meetup/
+UID:20220201T190000-c9fa4450d77587d3a57a91557c5182e1@https://podcast-muc.de
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20220201T190000
+DTSTART:20220215T190000
+DTEND:20220215T210000
+LOCATION:https://podcast-muc.de/videokonferenz
+URL:https://podcast-muc.de/termine/2022-02-meetup/
+LAST-MODIFIED:20220210T194543
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="Podcast Meetup München":mailto:termine@podcast-muc.de
 SUMMARY: Podcast Meetup München 01/2022
 DESCRIPTION: Podcast Meetup München\n
  Nils Kopp (Podcast Atti-Tune), Journalist und Podcaster mit Haltung\n
@@ -38,7 +57,7 @@ DTSTART:20220115T190000
 DTEND:20220115T210000
 LOCATION:https://podcast-muc.de/videokonferenz
 URL:https://podcast-muc.de/termine/2022-01-meetup/
-LAST-MODIFIED:20220115T185705
+LAST-MODIFIED:20220210T194543
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="Podcast Meetup München":mailto:termine@podcast-muc.de
@@ -57,7 +76,7 @@ DTSTART:20211215T190000
 DTEND:20211215T210000
 LOCATION:https://podcast-muc.de/videokonferenz
 URL:https://podcast-muc.de/termine/2021-12-meetup/
-LAST-MODIFIED:20220115T185705
+LAST-MODIFIED:20220210T194543
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="Podcast Meetup München":mailto:termine@podcast-muc.de
@@ -76,7 +95,7 @@ DTSTART:20211115T190000
 DTEND:20211115T210000
 LOCATION:https://podcast-muc.de/videokonferenz
 URL:https://podcast-muc.de/termine/2021-11-meetup/
-LAST-MODIFIED:20220115T185705
+LAST-MODIFIED:20220210T194543
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="Podcast Meetup München":mailto:termine@podcast-muc.de
@@ -95,7 +114,7 @@ DTSTART:20211015T190000
 DTEND:20211015T210000
 LOCATION:https://podcast-muc.de/videokonferenz
 URL:https://podcast-muc.de/termine/2021-10-meetup/
-LAST-MODIFIED:20220115T185705
+LAST-MODIFIED:20220210T194543
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="Podcast Meetup München":mailto:termine@podcast-muc.de
@@ -114,7 +133,7 @@ DTSTART:20210705T190000
 DTEND:20210705T210000
 LOCATION:https://podcast-muc.de/videokonferenz
 URL:https://podcast-muc.de/termine/2021-07-meetup/
-LAST-MODIFIED:20220115T185705
+LAST-MODIFIED:20220210T194543
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="Podcast Meetup München":mailto:termine@podcast-muc.de
@@ -133,7 +152,7 @@ DTSTART:20201209T190000
 DTEND:20201209T210000
 LOCATION:https://podcast-muc.de/videokonferenz
 URL:https://podcast-muc.de/termine/2020-12-meetup/
-LAST-MODIFIED:20220115T185705
+LAST-MODIFIED:20220210T194543
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="Podcast Meetup München":mailto:termine@podcast-muc.de
@@ -152,7 +171,7 @@ DTSTART:20200531T190000
 DTEND:20200531T210000
 LOCATION:https://podcast-muc.de/videokonferenz
 URL:https://podcast-muc.de/termine/2020-05-meetup/
-LAST-MODIFIED:20220115T185705
+LAST-MODIFIED:20220210T194543
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="Podcast Meetup München":mailto:termine@podcast-muc.de
@@ -171,6 +190,6 @@ DTSTART:20200430T190000
 DTEND:20200430T210000
 LOCATION:https://podcast-muc.de/videokonferenz
 URL:https://podcast-muc.de/termine/2020-04-meetup/
-LAST-MODIFIED:20220115T185705
+LAST-MODIFIED:20220210T194543
 END:VEVENT
 END:VCALENDAR
